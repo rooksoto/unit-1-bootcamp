@@ -12,7 +12,8 @@ public class Variables {
 
         //Testing methods here
         System.out.println("isOdd: " + isOdd(5));
-        System.out.print("Print Hello World: "); printHelloWorld();
+        System.out.print("Print Hello World: ");
+        printHelloWorld();
         System.out.println("Greatest Common Factor: " + gCF(55, 5658540));
     }
 
