@@ -1,6 +1,3 @@
-/**
- * Created by alexandraqin on 4/14/15.
- */
 public class Variables {
 
     public static void main(String args[]) {
@@ -13,12 +10,10 @@ public class Variables {
         System.out.println("e is cloe to " + closeToE);
         System.out.println("I am learning a bit about " + subject);
 
-
         //Testing methods here
         System.out.println("isOdd: " + isOdd(5));
         System.out.print("Print Hello World: "); printHelloWorld();
         System.out.println("Greatest Common Factor: " + gCF(55, 5658540));
-
     }
 
     /*
